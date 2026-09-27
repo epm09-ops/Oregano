@@ -1,0 +1,21 @@
+[
+  {
+    "inputs": [
+      "minecraft:dirt"
+    ],
+    "output": "minecraft:dirt",
+    "biomes": [
+      "minecraft:plains"
+    ],
+    "min_y": "-30",
+    "max_y": "64",
+    "player_blocks": "true",
+    "keep_nbt": "true"
+  },
+  {
+    "inputs": [
+      "minecraft:stone"
+    ],
+    "output": "minecraft:stone"
+  }
+]
