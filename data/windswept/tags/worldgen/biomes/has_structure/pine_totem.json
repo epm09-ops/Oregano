@@ -1,6 +1,7 @@
 {
   "values": [
     "environmental:pine_slopes",
-    "environmental:pine_barrens"
+    "environmental:pine_barrens",
+    "environmental:old_growth_pine_barrens"
   ]
 }

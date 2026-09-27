@@ -1,0 +1,6 @@
+{
+  "values": [
+    "environmental:pinecone",
+    "windswept:pinecone_block"
+  ]
+}
