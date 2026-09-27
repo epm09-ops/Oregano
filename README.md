@@ -1,4 +1,5 @@
-data sister pack of [Thyme](https://github.com/epm09-ops/Thyme). most changes correspond with Thyme, so that's basically required (because I say so) xxxxxxxxx. 
+data sister pack of [Thyme](https://github.com/epm09-ops/Thyme). most changes correspond with Thyme, so that's basically required (because I say so).\
+data packs to make minecraft and modded minecraft objectively better. credit to team abnormals, team galena, silversmith mods, hecco, and others coming soon. \
 currently:\
 -puts Windswept pinecones on Environmental pines (HUGE thx to Polaris!)\
 -makes Environmental plum trees drop cherries and use vanilla Cherry wood, 
