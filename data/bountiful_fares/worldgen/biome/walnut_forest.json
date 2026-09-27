@@ -85,7 +85,7 @@
       "minecraft:patch_pumpkin",
       "atmospheric:patch_yucca_flower",
       "atmospheric:patch_dead_bush_laurel_forest",
-      "pablo:additional_walnut_forest_trees"
+      "oregano:oregano_additional_walnut_forest_trees"
     ],
     [
       "minecraft:freeze_top_layer"
