@@ -1,0 +1,12 @@
+{
+  "removals": [
+    {
+      "dimension": "minecraft:overworld",
+      "biome": "windswept:pine_barrens"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "biome": "windswept:snowy_pine_barrens"
+    }
+  ]
+}
