@@ -1,0 +1,12 @@
+{
+  "removals": [
+    {
+      "dimension": "minecraft:overworld",
+      "biome": "minecraft:old_growth_pine_taiga"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "biome": "minecraft:cherry_grove"
+    }
+  ]
+}
